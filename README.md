@@ -30,3 +30,6 @@ This makes it easy to test and customize the store without any backend configura
 
 ## Open the app at:
 http://localhost:3000
+## 👩‍💻 Author
+
+Developed and customized by nur369
